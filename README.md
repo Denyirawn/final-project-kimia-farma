@@ -1,4 +1,4 @@
-Virtual Internship Experience: Big Data Analytics - Kimia Farma
+Virtual Internship Experience: Kimia Farma Business Performance Analysis 2020-2023
 
 # **Virtual Internship Experience: Big Data Analytics - Kimia Farma**
 Tool : MySQL Workbench - [Lihat script](https://github.com/faizns/VIX-Big-Data-Analytics-Kimia-Farma/blob/a4da84f3d2fb45693599c279747cabf271cfd866/vix_kimia_farma_script.sql) <br>
@@ -163,15 +163,15 @@ JOIN
 <p align="center">
    <kbd><img width="750" alt="sample tabel analisa "src="https://github.com/Denyirawn/final-project-kimia-farma/assets/170843873/93267847-3c02-4e90-88aa-155fbe3c8db4).png"></kbd>
 <p align="center">
-Gambar 8  — Report Dashboard PT. Kimia Farma
+Gambar 8  — Tabel analisis
 </p>
 <br>
 
 
 
 ---
-## **Data Visualization with looker studio**
-
+## **3. Data Visualization with looker studio**
+Setelah tabel analisis terbentuk, selanjutnya saya menginport tabel tersebut ke geogle looker studio untuk membuat dasboard visualisasi data agar data dari tabel analisis yang saya buat mudah di mengerti oleh semua stakeholder serta memiliki tampilan menarik.
 [Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/reporting/3b0bd0e3-218e-4480-80ea-aa8952e098d0).
 
 <p align="center">
