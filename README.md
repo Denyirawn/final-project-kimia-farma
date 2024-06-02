@@ -90,7 +90,7 @@ Gambar 7 — inport data
 <br>
 
 ---
-## **2. Buat tabel analisa**
+## **2. Create tabel analys**
 
 Membuat tabel analisa berkaitan dengan kegiatan menyusun dan membentuk tabel yang menggabungkan dan merangkum data dari berbagai sumber untuk tujuan analisis. Tabel analisa biasanya mencakup data yang telah diproses, dihitung, dan diolah sehingga memudahkan untuk mendapatkan wawasan dan melakukan analisis mendalam. 
  <br>
@@ -160,12 +160,18 @@ JOIN
 Gambar 8  — Tabel analisis
 </p>
 <br>
-
+<p align="center">
+   <kbd><img width="750" alt="sample tabel analisa "src="https://github.com/Denyirawn/final-project-kimia-farma/assets/170843873/3aadde62-c7fc-45f8-ad3b-845e0e863e8e).png"></kbd>
+<p align="center">
+Gambar 9  — Tabel analisis
+</p>
+<br>
 
 
 ---
 ## **3. Data Visualization with looker studio**
 Setelah tabel analisis terbentuk, selanjutnya saya menginport tabel tersebut ke geogle looker studio untuk membuat dasboard visualisasi data agar data dari tabel analisis yang saya buat mudah di mengerti oleh semua stakeholder serta memiliki tampilan menarik.
+
 [Lihat pada halaman Looker Data Studio](https://lookerstudio.google.com/reporting/3b0bd0e3-218e-4480-80ea-aa8952e098d0).
 
 <p align="center">
